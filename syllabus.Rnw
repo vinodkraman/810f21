@@ -41,7 +41,7 @@ xt <- xtable(tab, align="|c|ll|")
 
 \begin{center}\bf\Large
 Literature Proseminar (STATS 810, Fall \Sexpr{format.Date(class1,format='%Y')}) \\
-\rm \normalsize Friday 9-10am, 4088 East Hall.
+\rm \normalsize Friday 9-10am, G026 Tisch Hall (this location differs from an earlier schedule).
 \end{center}
 {\bf Instructor}: Edward Ionides \hfill
 {\bf Course web site}: \url{ionides.github.io/810f21/}
@@ -50,7 +50,7 @@ Literature Proseminar (STATS 810, Fall \Sexpr{format.Date(class1,format='%Y')}) 
 
 The first 8 weeks of Stat 810 will focus on responsible conduct of research and scholarship (RCRS). Instruction in RCRS is required by both the National Science Foundation (NSF) and the National Institutes of Health (NIH). To satisfy this federal legislation, the University of Michigan requires certification of 8 hrs of classroom discussion on RCRS for all PhD students (http://research-compliance.umich.edu/responsible-conduct-research-rcr-training\#). There will be a short weekly writing assignment so that we are all prepared in advance for each discussion.
 
- Certification of RCRS instruction is required for all PhD students and postdocs., since most PhD students and postdocs will at some point be working on federally funded projects. In order to achieve certification, attendance and participation of students is required. Therefore, for the first 8 weeks of 810, it will be necessary to check attendance. The first class of 810 will discuss why RCRS instruction has been mandated, and this would be an appropriate time to raise any concerns you might have about whether RCRS instruction is a worthwhile use of your time. If you cannot be present at class, please contact me: we can arrange a substitution which will involve a writing assignment together with a make-up attendance requirement. If you cannot complete the weekly writing assignment before class, we can arrange a make-up writing assignment.
+ Certification of RCRS instruction is required for all PhD students and postdocs, since most PhD students and postdocs will at some point be working on federally funded projects. In order to achieve certification, attendance and participation of students is required. Therefore, for the first 8 weeks of 810, it will be necessary to check attendance. The first class of 810 will discuss why RCRS instruction has been mandated, and this would be an appropriate time to raise any concerns you might have about whether RCRS instruction is a worthwhile use of your time. If you cannot be present at class, please contact me: we can arrange a substitution which will involve a writing assignment together with a make-up attendance requirement. If you cannot complete the weekly writing assignment before class, we can arrange a make-up writing assignment.
 
 After completion of the RCRS component, the remaining classes will discuss various issues related to statistical computation: Unix and Linux, parallel computation (the greatlakes cluster), R and Python, Latex, reproducible statistical research (knitR, Rmarkdown, Jupyter), communicating statistical methodology (R packages).
 
